@@ -61,6 +61,7 @@ h2{
     width: 120px;
     margin-top: 75px;
     font-family: 'Lexend Deca', sans-serif;
+    cursor: pointer;
 }
 
 .button2{
@@ -72,6 +73,7 @@ h2{
     width: 120px;
     margin-top: 75px;
     font-family: 'Lexend Deca', sans-serif;
+    cursor: pointer;
 }
 
 .button3{
@@ -83,6 +85,7 @@ h2{
     width: 120px;
     margin-top: 75px;
     font-family: 'Lexend Deca', sans-serif;
+    cursor: pointer;
 }
 
 @media screen and (max-width: 900px){
